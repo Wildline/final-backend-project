@@ -1,6 +1,6 @@
 const dbName = "final-backend";
 const dbUser = "postgres";
-const dbPwd = "pgpwd";
+const dbPwd = "light blue";
 
 module.exports = {
   dbName,
